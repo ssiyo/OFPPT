@@ -1,287 +1,287 @@
 ```
-<card>
-    <front>
+<c>
+    <f>
         projet
-    </front>
-    <back>
+    </f>
+    <b>
         un projet est le ensemble des efforts qui atteindre un objectif.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         gestion de projet
-    </front>
-    <back>
+    </f>
+    <b>
         le gestion de projet est un methode de realisation de un projet effectivement.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         chef de projet
-    </front>
-    <back>
+    </f>
+    <b>
         Chef de projet (project manager) decide comment le projet peut realise.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         assignations RACI
-    </front>
-    <back>
+    </f>
+    <b>
         Responsible: acteur Accountable: jugeur Consulted: en relation Informed: controlleur
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         methodes de gestion de projet
-    </front>
-    <back>
+    </f>
+    <b>
         waterfall, cycle en v
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         Waterfall model
-    </front>
-    <back>
+    </f>
+    <b>
         dans la methode waterfall, les etapes sont definie et ils suivre avec sequence, ce structure est fixe.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         Cycle en V
-    </front>
-    <back>
+    </f>
+    <b>
         cycle v associe chaque phase de realisation avec une phase de validation.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         methode Agile
-    </front>
-    <back>
+    </f>
+    <b>
         le methode agile est une methode de gestion de un projet iterativement par valide chaque etape.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         analyse le cahier de charge 1
-    </front>
-    <back>
+    </f>
+    <b>
         Compréhension des besoins client
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         analyse le cahier de charge 2
-    </front>
-    <back>
+    </f>
+    <b>
         Contexte du projet: informations descriptive de la projet qui donne la profoundeur. combination des besoins de project coheriment. il est un definition complete, comme un conception textuel, mais concernent le communication de le idee de le projet
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         analyse le cahier de charge 3
-    </front>
-    <back>
+    </f>
+    <b>
         Périmètre du projet (project scope): les autre objectifs le projet peut atteindre plus que le principal.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         analyse le cahier de charge 5
-    </front>
-    <back>
+    </f>
+    <b>
         Proposition des solutions possibles
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         analyse le cahier de charge 4
-    </front>
-    <back>
+    </f>
+    <b>
         Détection des risques liés à la nature du projet
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 1
-    </front>
-    <back>
+    </f>
+    <b>
         Répartition de l’ensemble des fonctionnalités en tâches (top-down or bottom-up approach)
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 2
-    </front>
-    <back>
+    </f>
+    <b>
         Estimation de la durée de réalisation de chaque tâche (basent sur son historique en development des projets)
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 3
-    </front>
-    <back>
+    </f>
+    <b>
         Ordonnancement des tâches
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 4
-    </front>
-    <back>
+    </f>
+    <b>
         Chemin critique (sequence des taches qui si un de les ete en retard, le date de realisation de projet fait aussi retarde)
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 5
-    </front>
-    <back>
+    </f>
+    <b>
         Echéancier et la chronologie des tâches
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 6
-    </front>
-    <back>
+    </f>
+    <b>
         Affectation des ressources aux tâches
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 7
-    </front>
-    <back>
+    </f>
+    <b>
         Maîtrise des coûts
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         preparer le projet 8
-    </front>
-    <back>
+    </f>
+    <b>
         Détermination des points de validation
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         methode agile scrum
-    </front>
-    <back>
+    </f>
+    <b>
         le methode agile scrum augment le productivite de la equipe.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         Processus de la méthode Scrum
-    </front>
-    <back>
+    </f>
+    <b>
         
-    </back>
-    <note>
+    </b>
+    <n>
         pre-game: elements necessaire avant le realisation de le projet
 game: elements necessaire pour le realisation de le projet
 postgame: elements necessaire apres le realisation de le projet
-    </note>
-</card>
-<card>
-    <front>
+    </n>
+</c>
+<c>
+    <f>
         scrum master
-    </front>
-    <back>
+    </f>
+    <b>
         scrum master: qui gestioner les evenement de scrum
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         product owner
-    </front>
-    <back>
+    </f>
+    <b>
         product owner: qui sais les besoins des clients
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         stakeholder
-    </front>
-    <back>
+    </f>
+    <b>
         stakeholder: inverteur
-    </back>
-</card>
-<card>
-    <front>
-        Product Backlog
-    </front>
-    <back>
-        Product Backlog (cahier de charge) est un liste des specification le Product Owner ecrit de user stories.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
+        Product blog
+    </f>
+    <b>
+        Product blog (cahier de charge) est un liste des specification le Product Owner ecrit de user stories.
+    </b>
+</c>
+<c>
+    <f>
         Sprint
-    </front>
-    <back>
+    </f>
+    <b>
         Sprint est un period de codage des fonciton relie.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         3 questions de daily scrum
-    </front>
-    <back>
+    </f>
+    <b>
         quoi fait hier quelle problem encontrer quoi fait aujourdhui
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         Jira
-    </front>
-    <back>
+    </f>
+    <b>
         c'est quoi jira? est un logiciel de gestion de projet avec une maniere organize.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         Ticket
-    </front>
-    <back>
+    </f>
+    <b>
         c'est quoi un ticket dans jira? un tache a faire.
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         ticket de type Epic
-    </front>
-    <back>
+    </f>
+    <b>
         epic: grand objectif (sprint)
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         ticket de type story
-    </front>
-    <back>
+    </f>
+    <b>
         story: fonctionallite a realiser
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         ticket de type tache
-    </front>
-    <back>
+    </f>
+    <b>
         task: tache technique (story specifique)
-    </back>
-</card>
-<card>
-    <front>
+    </b>
+</c>
+<c>
+    <f>
         ticket de type bug
-    </front>
-    <back>
+    </f>
+    <b>
         bug: probleme a corriger
-    </back>
-</card>
+    </b>
+</c>
 ```
